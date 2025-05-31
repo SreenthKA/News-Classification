@@ -1,0 +1,12 @@
+gensim
+matplotlib
+nltk
+numpy
+pandas
+seaborn
+sentence_transformers
+sklearn
+spacy
+torch
+tqdm
+transformers
