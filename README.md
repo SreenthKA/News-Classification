@@ -32,7 +32,7 @@ This repository contains a complete pipeline for news article classification usi
 ## 🗃️ Datasets
 
 ### 1. `news-article-categories.csv`
-
+* Download it from https://www.kaggle.com/datasets/timilsinabimal/newsarticlecategories
 * Contains labeled news headlines/articles
 * Columns:
 
