@@ -29,7 +29,7 @@ This repository contains a complete pipeline for news article classification usi
 
 ---
 
-## 🗃️ Datasets
+##  Datasets
 
 ### 1. `news-article-categories.csv`
 * Download it from https://www.kaggle.com/datasets/timilsinabimal/newsarticlecategories
@@ -56,7 +56,7 @@ These files contain unstructured posts that can be used for:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1: Install Dependencies
 
@@ -76,7 +76,7 @@ Each notebook is modular. Run in the following order for full pipeline:
 
 ---
 
-## 📊 Results & Evaluation
+## Results & Evaluation
 
 Evaluation metrics include:
 
@@ -89,7 +89,7 @@ Key findings are discussed within each notebook.
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 | Embedding | Classifier               |
 | --------- | ------------------------ |
@@ -100,7 +100,7 @@ Key findings are discussed within each notebook.
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```text
 gensim
@@ -122,13 +122,4 @@ Install with:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## 🙌 Acknowledgments
-
-* HuggingFace Transformers
-* scikit-learn and Gensim
-* 20 Newsgroups dataset (originally from Ken Lang, CMU)
-* Dataset adapted from Kaggle and manually collected sources
 
